@@ -1,7 +1,7 @@
 {
   "name": "text-2-ascii",
   "version": "1.0.1",
-  "description": "This package simply convert a text to ascii code",
+  "description": "This package simply converts a text to ascii code",
   "main": "string_2_ascii",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
