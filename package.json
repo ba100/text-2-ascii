@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "This package simply converts a text to ascii code",
   "main": "string_2_ascii",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "ascii",
     "text",
@@ -13,5 +10,10 @@
     "string"
   ],
   "author": "bassel",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/ba100/text-2-ascii.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ba100/text-2-ascii.git"
+  },
 }

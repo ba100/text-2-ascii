@@ -1,5 +1,5 @@
 /**
- * This method will take a string and convert it ASCII code
+ * This function will take a string and convert it to ASCII code
  * @param text
  */
 function cs2a(text) {

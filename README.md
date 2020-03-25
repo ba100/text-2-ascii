@@ -7,8 +7,3 @@
 const cs2a = require('text-2-ascii');  
 cs2a('aab'); // returns: "979798"  
 ~~~~
-### To receive the ASCII code as a number:  
-~~~~
-const cs2a = require('text-2-ascii');  
-parseInt(cs2a('aab')); // returns: 979798
-~~~~
