@@ -15,5 +15,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ba100/text-2-ascii.git"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
