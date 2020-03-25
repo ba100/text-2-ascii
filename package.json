@@ -1,6 +1,6 @@
 {
   "name": "text-2-ascii",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This package simply converts a text to ascii code",
   "main": "string_2_ascii",
   "keywords": [
